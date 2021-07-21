@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca63244a-0c5c-4cf0-bbe0-b6bc4a263ce4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/UniswapV2Pair.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/UniswapV2Pair.sol" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mwp3VwSdPnFwUj46VhtAdZNC3m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../uniswap-v2-periphery/contracts/UniswapV2Router01.sol" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2203" y="-400" width="1489" height="1189" key="DiffContextDialog" timestamp="1610444645610">
+      <screen x="1440" y="-540" width="2560" height="1440" />
+    </state>
+    <state x="2203" y="-400" width="1489" height="1189" key="DiffContextDialog/0.0.1440.900/1440.-540.2560.1440@1440.-540.2560.1440" timestamp="1610444645610" />
+    <state x="241" y="120" key="SettingsEditor" timestamp="1610414384209">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="241" y="120" key="SettingsEditor/0.0.1440.900/1440.-540.2560.1440@0.0.1440.900" timestamp="1610414384209" />
+    <state x="2654" y="-173" width="586" height="735" key="find.popup" timestamp="1610612737331">
+      <screen x="1440" y="-517" width="2560" height="1417" />
+    </state>
+    <state x="2654" y="-173" width="586" height="735" key="find.popup/0.23.1440.877/1440.-517.2560.1417@1440.-517.2560.1417" timestamp="1610612737331" />
+  </component>
+</project>
